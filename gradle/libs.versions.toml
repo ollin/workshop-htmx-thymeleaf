@@ -3,7 +3,7 @@ cucumber = "7.17.0"
 
 jooq = "3.19.8" # same as spring
 
-kotlin = "1.9.23"
+kotlin = "2.0.10"
 
 kotlinxHtml = "0.11.0"
 kotlinCss = "1.0.0-pre.129-kotlin-1.4.20"
